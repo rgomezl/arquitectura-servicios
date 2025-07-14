@@ -1,0 +1,13 @@
+
+region               = "eu-north-1"
+name_prefix          = "recooba"
+db_name              = "recoobadb"
+db_username          = "admin"
+db_password          = "RecoobaSecure2025"
+instance_type        = "t3.micro"
+key_name             = "recooba-key"
+public_subnet_cidr_a = "10.0.1.0/24"
+public_subnet_cidr_b = "10.0.2.0/24"
+az_a                 = "eu-north-1a"
+az_b                 = "eu-north-1b"
+allowed_ip           = "179.60.64.116/32"

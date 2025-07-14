@@ -1,0 +1,7 @@
+https://github.com/rgomezl/recooba
+
+npx react-native run-android
+npx react-native start
+adb devices
+
+node index.js
